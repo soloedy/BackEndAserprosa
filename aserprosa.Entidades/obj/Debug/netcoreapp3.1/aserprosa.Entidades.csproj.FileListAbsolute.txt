@@ -1,0 +1,9 @@
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\bin\Debug\netcoreapp3.1\aserprosa.Entidades.deps.json
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\bin\Debug\netcoreapp3.1\aserprosa.Entidades.dll
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\bin\Debug\netcoreapp3.1\aserprosa.Entidades.pdb
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\obj\Debug\netcoreapp3.1\aserprosa.Entidades.AssemblyInfoInputs.cache
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\obj\Debug\netcoreapp3.1\aserprosa.Entidades.AssemblyInfo.cs
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\obj\Debug\netcoreapp3.1\aserprosa.Entidades.csproj.CoreCompileInputs.cache
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\obj\Debug\netcoreapp3.1\aserprosa.Entidades.dll
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\obj\Debug\netcoreapp3.1\aserprosa.Entidades.pdb
+D:\Proyectos\ProyectoGraduacion\aserprosaBackend\aserprosa\aserprosa.Entidades\obj\Debug\netcoreapp3.1\aserprosa.Entidades.csprojAssemblyReference.cache
